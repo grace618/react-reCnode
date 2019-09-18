@@ -1,0 +1,17 @@
+{
+  "files.autoSave": "onFocusChange",
+  "eslint.autoFixOnSave": true, //  启用保存时自动修复,默认只支持.js文件
+  // vscode默认启用了根据文件类型自动设置tabsize的选项
+  "editor.detectIndentation": true,
+  // #每次保存的时候自动格式化
+  "editor.formatOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "react",
+      "autoFix": true
+    }
+  ],
+  "files.eol": "\n"
+}

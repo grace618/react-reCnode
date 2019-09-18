@@ -1,0 +1,25 @@
+.loginWrap .login-form,
+.loginWrap {
+    max-width: 450px;
+}
+
+.loginWrap {
+    margin: 200px auto 0 auto;
+}
+
+.loginWrap .login-form-forgot {
+    float: right;
+}
+
+.loginWrap .login-form-button {
+    width: 100%;
+}
+
+.loginBg {
+    background: url(../../assets/imgs/bg14.jpg) no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+
+}

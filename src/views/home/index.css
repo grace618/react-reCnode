@@ -1,0 +1,12 @@
+.container {
+    background: #F7F7F7;
+    padding: 1px;
+}
+
+.app-wrap {
+    width: 90%;
+    max-width: 1400px;
+    min-width: 960px;
+    min-height: 747px;
+    margin: 15px auto;
+}
